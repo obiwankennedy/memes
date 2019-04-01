@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>resources/podrick.png</file>
+        <file>resources/layer.png</file>
+        <file>resources/background.png</file>
+        <file>resources/yara_grayjoy.png</file>
+        <file>resources/missandei.png</file>
+        <file>resources/melisandre.png</file>
+        <file>resources/daenerys.png</file>
+        <file>resources/drogon.png</file>
+        <file>resources/sansa.png</file>
+        <file>resources/brienne.png</file>
+        <file>resources/cersei_lannister.png</file>
+        <file>resources/samwell_tarly.png</file>
+        <file>resources/white_king.png</file>
+        <file>resources/lyannamormontg.png</file>
+        <file>resources/arya_stark.png</file>
+    </qresource>
+</RCC>
